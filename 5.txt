@@ -1,2 +1,2 @@
 First file in the branch line.
-
+Chnage in the file which is only at branch. Stash

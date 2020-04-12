@@ -1,7 +1,12 @@
 Test file for clone.
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Verified that stash can't work twice.
 =======
 Trying if stash can work twice.
 Changing the existing to verify the stash changes.
 >>>>>>> 7ea379f07a85286f8b69ef2133872548b89b446e
+=======
+Change for the stash command.
+Change for stash on the branch.
+>>>>>>> Stashed changes
