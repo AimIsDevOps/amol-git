@@ -1,2 +1,7 @@
 Test file for clone.
+<<<<<<< HEAD
 Verified that stash can't work twice.
+=======
+Trying if stash can work twice.
+Changing the existing to verify the stash changes.
+>>>>>>> 7ea379f07a85286f8b69ef2133872548b89b446e
