@@ -1,2 +1,3 @@
 Test file for clone.
 Trying if stash can work twice.
+Changing the existing to verify the stash changes.

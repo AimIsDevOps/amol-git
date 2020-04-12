@@ -1,3 +1,5 @@
 Third File in GIT. 
 New edit/change in the file on Day 2.
 Part of revision
+Trying stash on the file which is not changed on the branch.
+
