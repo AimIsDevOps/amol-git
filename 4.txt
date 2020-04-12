@@ -1,1 +1,2 @@
 Test file for clone.
+Verified that stash can't work twice.
