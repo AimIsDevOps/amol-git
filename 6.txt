@@ -1,1 +1,2 @@
 New file in the branch which is created under the clone of the repo.
+Edit from the GITHUB. To check if UI changes can be in sync with CLI.
